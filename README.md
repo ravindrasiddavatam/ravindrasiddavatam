@@ -1,4 +1,4 @@
-# Hi there, I am Ravindra 👋
+# Hi there, I am Ravindra
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Developer;Passionate+Coder;Tech+Enthusiast)
 
