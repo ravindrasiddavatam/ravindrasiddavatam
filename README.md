@@ -6,7 +6,8 @@ I am a [dedicated/passionate/etc.] software developer with [X] years of experien
 
 ## Skills & Expertise
 
-### Front-end Development:
+### Front-end Development:![GithubBelovedGIF](https://github.com/user-attachments/assets/b66315fd-8466-4836-ac10-3d7f990a0f38)
+
 - Angular
 - HTML5
 - CSS3
