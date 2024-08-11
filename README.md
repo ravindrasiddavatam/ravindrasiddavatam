@@ -1,10 +1,4 @@
-## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer;Machine+learning+enthusiast)](https://git.io/typing-svg)
-
-
-
-# Hi there, I am [Your Name] 👋
+# Hi there, I am Ravindra 👋
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Developer;Passionate+Coder;Tech+Enthusiast)
 
