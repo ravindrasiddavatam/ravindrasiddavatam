@@ -5,9 +5,6 @@
 I am a [dedicated/passionate/etc.] software developer with [X] years of experience specializing in [your specialization, e.g., front-end development with Angular]. I excel in building dynamic, responsive web applications and have a strong passion for creating scalable and maintainable code. My expertise also includes backend technologies such as [list other technologies, e.g., Spring Boot, Nest.js].
 
 ## Skills & Expertise
-
-### Front-end Development:![GithubBelovedGIF](https://github.com/user-attachments/assets/b66315fd-8466-4836-ac10-3d7f990a0f38)
-
 - Angular
 - HTML5
 - CSS3
