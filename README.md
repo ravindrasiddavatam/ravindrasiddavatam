@@ -4,7 +4,6 @@
 <img src="cat.png" align="right" width="200"/>
 
 
-
 I am a dedicated software developer with 6 years of experience specializing in Java development. I excel in building robust, scalable, and maintainable applications, with a 
 strong passion for clean code and efficient design. My expertise extends to backend technologies such as Spring Boot, Hibernate, and RESTful APIs, enabling me to deliver 
 comprehensive solutions that meet diverse business needs.
