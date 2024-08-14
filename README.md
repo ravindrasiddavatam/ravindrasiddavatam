@@ -2,8 +2,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Developer;Passionate+Coder;Tech+Enthusiast)
 
-I am a [dedicated/passionate/etc.] software developer with [X] years of experience specializing in [your specialization, e.g., front-end development with Angular]. I excel in building dynamic, responsive web applications and have a strong passion for creating scalable and maintainable code. My expertise also includes backend technologies such as [list other technologies, e.g., Spring Boot, Nest.js].
+I am a dedicated software developer with 6 years of experience specializing in Java development. I excel in building robust, scalable, and maintainable applications, with a strong passion for clean code and efficient design. My expertise extends to backend technologies such as Spring Boot, Hibernate, and RESTful APIs, enabling me to deliver 
 <img src="cat.png" align="right" width="150"/>
+comprehensive solutions that meet diverse business needs.
+
 
 ## Skills & Expertise
 - Angular
