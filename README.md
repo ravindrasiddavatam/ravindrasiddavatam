@@ -1,7 +1,8 @@
 # Hi there, I am Ravindra
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Software+Developer;Backend+Developer;Passionate+Coder;Tech+Enthusiast)
-<img src="cat.png" align="right" width="200"/>
+<img src="cat.png" align="right" width="180"/>
+
 I am a dedicated software developer with 6 years of experience specializing in Java development. I excel in building robust, scalable, and maintainable applications, with a 
 strong passion for clean code and efficient design. My expertise extends to backend technologies such as Spring Boot, Hibernate, and RESTful APIs, enabling me to deliver 
 comprehensive solutions that meet diverse business needs.
