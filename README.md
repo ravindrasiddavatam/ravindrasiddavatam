@@ -44,5 +44,5 @@ comprehensive solutions that meet diverse business needs.
 
 ---
 
-Feel free to connect with me on [LinkedIn](#) or check out my [portfolio](#).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ravindra-sv/) or check out my [portfolio](#).
 
