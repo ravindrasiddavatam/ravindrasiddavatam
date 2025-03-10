@@ -35,13 +35,20 @@ comprehensive solutions that meet diverse business needs.
 - PostgreSQL
 - MongoDB
 
-## 📚 Latest Blog Posts
-- [Basic Concepts for Spring Boot](https://ravindrasiddavatam.wordpress.com/2024/08/15/basics-of-springboot/)
-- [Simple Understanding of Spring Boot](#)
-- [Implement Push Notification using Firebase Cloud Messaging API (V1) in Angular and Spring Boot](#)
-➡️ [more posts...](#)
--[Type sfety in Java](https://ravindrasiddavatam.wordpress.com/2024/08/15/type-safety-in-java/)
+<br>
 
+- 📚 Competitive Coder
+- ⚛️ I ❤️ Full Stack Development
+- ⚛️ I ❤️ Java
+- 👷🏽‍♂️Looking for Opportunities
+- ⚡ Fun fact: ... I love to solve problems. **I can do leetcode problems all day.**
+
+### I'm Currently
+
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="400px" />
+ 
+<!-- ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddharth25pandey.siddharth25pandey) -->
+<br>
 ---
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ravindra-sv/) or check out my [portfolio](https://ravindrasiddavatam.github.io/).
