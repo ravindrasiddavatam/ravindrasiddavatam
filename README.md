@@ -12,6 +12,7 @@ comprehensive solutions that meet diverse business needs.
 
 
 ## Skills & Expertise
+- Java
 - Angular
 - HTML5
 - CSS3
@@ -20,14 +21,14 @@ comprehensive solutions that meet diverse business needs.
 
 ### Back-end Development:
 - Spring Boot
-- Nest.js
+- Microservices
 - RESTful APIs
 
 ### Tools & Technologies:
 - Git & GitHub
 - Node.js
 - npm & Yarn
-- Webpack
+- Kubernetes
 - Docker
 
 ### Database:
