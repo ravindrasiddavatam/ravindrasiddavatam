@@ -27,7 +27,7 @@ comprehensive solutions that meet diverse business needs.
 ### Tools & Technologies:
 - Git & GitHub
 - Node.js
-- npm & Yarn
+- npm
 - Kubernetes
 - Docker
 
