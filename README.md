@@ -18,6 +18,7 @@ comprehensive solutions that meet diverse business needs.
 - CSS3
 - JavaScript
 - TypeScript
+- React
 
 ### Back-end Development:
 - Spring Boot
